@@ -1,2 +1,3 @@
-# WordsExtrationUsingNER
-Extracting of words until the next specified word came using NER (Name Entity Recognition).
+# NER-based Text Extraction:
+Applied Named Entity Recognition for precise text extraction between user-defined keywords, enhancing information retrieval efficiency.
+
